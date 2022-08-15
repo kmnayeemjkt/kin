@@ -1,6 +1,5 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="BTV World(Jagobd)" tvg-logo="https://i.ibb.co/s59x76V/BTV.jpg" group-title="BD Bangla" parent-code="123",BTV World(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-chno="2" tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg-logo="https://i.ibb.co/GsDQX52/ATN-BAngla.gif" group-title="BD Bangla" parent-code="123",ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="(no tvg-id)" tvg-name="BanglaVision" tvg-logo="https://i.ibb.co/sWK1Nry/Bangla-Vision.png" group-title="BD Bangla" parent-code="123",BanglaVision

@@ -14,7 +14,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" group-title="BD Bangla" parent-code="123",Channel 9
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50277
 #EXTINF:-1 tvg-chno="8" tvg-id="(no tvg-id)" tvg-name="Channel I" tvg-logo="https://i.ibb.co/bPyWZWb/Channel-i.png" group-title="BD Bangla" parent-code="123",Channel I
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50274
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50275
 #EXTINF:-1 tvg-chno="9" tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="https://i.ibb.co/QrnHQx6/Asian-TV.png" group-title="BD Bangla" parent-code="123",Asian TV
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="(no tvg-id)" tvg-name="ATN Islamic TV" tvg-logo="https://i.ibb.co/bWh48cj/atn-islamic.jpg" group-title="BD Bangla" parent-code="123",ATN Islamic TV
@@ -122,21 +122,21 @@ https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:-1 tvg-chno="304" tvg-id="Dummy" tvg-name="VOICE TV" tvg-logo="https://imgur.com/wMH3tLM.png" group-title="OTHER BANGLA",VOICE TV
 https://tempskyview.jagobd.com:441/live-orgin/voicetv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="http://103.55.144.46/img/sony-maxhd.jpg" group-title="Hindi",Sony Max HD
-http://103.55.144.46/hls/sony-maxhd.m3u8
+http://xtream.efiberbd.net:25461/mkaua/stream/25
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="zee cinema hd" tvg-logo="http://103.55.144.46/img/zeecinemahd.jpg" group-title="Hindi",zee cinema hd
-http://103.55.144.46/hls/zeecinemahd.m3u8
+http://xtream.efiberbd.net:25461/mkaua/stream/26
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony SD" tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Hindi",Sony SD
-http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+http://xtream.efiberbd.net:25461/mkaua/stream/22
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="colors cineplex" tvg-logo="http://103.55.144.46/img/colorscineplex.jpg" group-title="Hindi",colors cineplex
-http://103.55.144.46/hls/colorscineplex.m3u8
+http://xtream.efiberbd.net:25461/mkaua/stream/29
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony HD" tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi",Sony HD
-http://103.55.144.46/hls/sonyen.m3u8
+http://xtream.efiberbd.net:25461/mkaua/stream/22
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://imgur.com/UGKHkDS.png" group-title="Hindi",Star Plus
 http://103.55.144.46/hls/starplus.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Andpictures HD" tvg-logo="http://103.55.144.46/img/andpictures-hd.jpg" group-title="Hindi",Andpictures HD
-http://103.55.144.46/hls/andpictures.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star gold" tvg-logo="http://103.55.144.46/img/stargold.jpg" group-title="Hindi",star gold
-http://103.55.144.46/hls/stargold.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Pictures HD" tvg-logo="http://103.55.144.46/img/andpictures-hd.jpg" group-title="Hindi",And Pictures HD
+http://xtream.efiberbd.net:25461/mkaua/stream/28
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold" tvg-logo="http://103.55.144.46/img/stargold.jpg" group-title="Hindi",Star Gold
+http://xtream.efiberbd.net:25461/mkaua/stream/27
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TV" tvg-logo="http://103.55.144.46/img/zeetv.png" group-title="Hindi",ZEE TV
 http://103.55.144.46/hls/zeetv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="ext" group-title="Hindi",B4U Kadak

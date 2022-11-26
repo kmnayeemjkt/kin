@@ -1,6 +1,25 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Picture" tvg-logo="" group-title="Flixhub",& Picture
 http://live.flixhub.net/hls/andpictures.m3u8
+EXTINF:-1 tvg-id="515" tvg-name="FIFA Toffe 180P" tvg-logo="" group-title="Flixhub",FIFA Toffe 180P
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_180.m3u8
+
+EXTINF:-1 tvg-id="514" tvg-name="FIFA Toffe 360P" tvg-logo="" group-title="Flixhub",FIFA Toffe 360P
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_360.m3u8
+
+
+EXTINF:-1 tvg-id="513" tvg-name="FIFA Toffe 640P" tvg-logo="" group-title="Flixhub",FIFA Toffe 640P
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_640.m3u8
+
+
+
+EXTINF:-1 tvg-id="512" tvg-name=" FIFA Toffe 850P" tvg-logo="" group-title="Flixhub",FIFA Toffe 850P
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
+
+
+
+EXTINF:-1 tvg-id="511" tvg-name="FIFA Toffe 1080P" tvg-logo="" group-title="Flixhub",FIFA Toffe 1080P
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9xm" tvg-logo="" group-title="Flixhub",9xm
 http://live.flixhub.net/hls/9xm.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akash" tvg-logo="" group-title="Flixhub",Akash

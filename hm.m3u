@@ -1,5 +1,5 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="120" tvg-name="Gazi TV" tvg-logo="https://ibb.co/yBTsvhV" group-title="Flixhub",Gazi TV
+#EXTINF:-1 tvg-id="120" tvg-name="Gazi TV" tvg-logo="https://i.ibb.co/k6ncb3M/GTV.png" group-title="Flixhub",Gazi TV
 http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-id="515" tvg-name="FIFA Toffe180P" tvg-logo="https://images.prothomalo.com/prothomalo-english%2F2022-11%2Fd653d588-d515-4df0-aa9c-7b063ef1deb6%2FPhoto_Toffee_set_to_livestream_FIFA_World_Cup_Qatar_2022TM_starting_today_Final.png?rect=0%2C11%2C325%2C171&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1" group-title="T",FIFA Toffe 180P
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_180.m3u8
